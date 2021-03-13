@@ -1,0 +1,11 @@
+In order to complete this project, I checked the next resources:
+
+* Several forum posts in stackoverflow.com
+
+* NumPy Cheat Sheet, available in https://intellipaat.com/mediaFiles/2018/12/Python-NumPy-Cheat-Sheet-1.png
+
+* Pandas Cheat Sheet, available in https://studylib.net/doc/25268801/pandas-cheat-sheet
+
+* Matplotlib Cheat Sheet, available in https://raw.githubusercontent.com/matplotlib/cheatsheets/master/cheatsheets-1.png
+
+*'Investigate A Dataset Project Walkthrough Final' video, available in https://www.youtube.com/watch?v=OtDZCYxbHB4&feature=emb_logo
